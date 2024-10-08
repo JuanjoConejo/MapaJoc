@@ -1,0 +1,146 @@
+﻿  JocMapa.cpp
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,67): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,67): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,67): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,67): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,67): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,51): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,51): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,51): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(31,51): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,73): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,73): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,73): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,73): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,57): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,57): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,57): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(32,57): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,79): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,79): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,79): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,79): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,79): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,57): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,57): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,57): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(33,57): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,73): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,73): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,73): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,73): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,51): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,51): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,51): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(34,51): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,70): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(37,53): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,76): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(38,59): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,82): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(39,59): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,76): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:         with
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:         ]
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:         and
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:         [
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:             T=float
+E:\AluCiclesGS2\Juanjo\Mapa de joc\Proba1-JCH\TileMap.cpp(40,53): warning C4244:         ]
+  (compilando archivo de origen "JocMapa.cpp")
+  
+  Proba1-JCH.vcxproj -> E:\AluCiclesGS2\Juanjo\Mapa de joc\x64\Debug\Proba1-JCH.exe
